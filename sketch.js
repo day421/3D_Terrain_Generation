@@ -36,7 +36,7 @@ function draw() {
     yoff += 0.2;
   }
 
-  background(255);
+  background(109,246,234);
   translate(0, 50);
   rotateX(PI / 3);
   fill(200, 200, 200, 150);
